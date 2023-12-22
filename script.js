@@ -2,7 +2,7 @@
 	{
 		consolePrefix = '[CONSOLE] '//Prefix for all console logs
 		newDate = new Date()
-		version = '5.0.0';
+		version = '1.0.0';
 		newDate = newDate.toLocaleString('en-US', { timeZone: 'America/Chicago' })
 	}//Variables
 

@@ -4,59 +4,17 @@
 }
 
 
-body {font-family: "Trebuchet MS", sans-serif;background-color: #2D51A5}
+body {font-family: "Inter", sans-serif;background-color: #333333}
 h1, h2, h7, h5 {color: #fff}
 
-.credit {
-    position: fixed;
-  left: 0;
-  bottom: 4%;
-  width: 100%;
-  text-align: center;
+.whole-page{
+margin-right: auto;
+padding-right: 8px;
+padding-bottom: 80px;
 }
 
-#date {
-    position: fixed;
-  left: 0;
-  bottom: 0%;
-  width: 100%;
-  text-align: center;
-}
-
-hr {
-	border: 1px solid #fff
-}
-
-.hr-stuff {
-  position: fixed;
-  left: 0;
-  bottom: 10%;
-  width: 100%;
-  text-align: center;
-	border: 1px solid #fff;
-}
-
-.table-header {
-	border: 0px solid black;
-}
-
-.top {
-	width: 80%;
-	float: right;
-	position: relative;
-	bottom: -50px;
-}
-
-table, th, td {
-  color: #fff;
-	text-align: center;
-	border-collapse: collapse;
-	background-color: #346AB3;
-	border: 2px solid lightgray;
-}
-
-th, td {
-	padding: 10px;
+.title{
+	margin-bottom: 24px;
 }
 
 .header-links:link, .header-links:visited {
