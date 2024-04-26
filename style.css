@@ -4,7 +4,12 @@
     height: 100%
   }
 
-  body {font-family: "Trebuchet MS", sans-serif;background-color: #262525}
+  body {
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: #262525;
+    margin: 0px;
+}
+
   h1, h2, h7, h5 {color: #fff}
   
   .credit {
