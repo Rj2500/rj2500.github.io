@@ -95,6 +95,7 @@
       display: flex;
       justify-content: center;
       padding-right: 50px;
+      line-height: 1.5;
   }
   
   .link-button:hover {
@@ -119,10 +120,4 @@
       flex-wrap: wrap;
       align-content: center;
       margin:auto;
-  }
-
-  @supports (-moz-appearance: none;) {
-    .link-text {
-        line-height: 1.5;
-    }
   }
