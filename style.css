@@ -78,13 +78,13 @@
   }
   
   .link-button {
-      border-radius:1rem; 
-      background-image: linear-gradient(#9adfff,#1a76ff);
+    border-radius:0.5rem; 
+      background-color: #94b1ff;
       height:400px;
       width: 450px;
       margin: 2.5px;
       opacity: 0.75;
-      transition: opacity 0.5s;
+      transition: opacity 1s;
       padding: 20px;
   }
   
@@ -100,7 +100,7 @@
   
   .link-button:hover {
     opacity: 1;
-    background-image: linear-gradient(#9adfff 30%,#1a76ff);
+    background-image: linear-gradient(#94b1ff 30%,#c2daff);
   }
   
   .link-button:hover .link-text {
